@@ -34,9 +34,7 @@ ___
 
 <br></br>
 
-<a href="https://github.com/rksorthiya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rksorthiya&hide_langs_below=1 />
-</a>
+
 
 <a href="https://github.com/rksorthiya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rksorthiya&show_icons=true&line_height=27" alt="Rutika's github stars"/>
