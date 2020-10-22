@@ -1,4 +1,4 @@
-### Hi, I'm Divya Makwana 👋👩‍💻
+### Hi, I'm Rutika Sorthiya 👋👩‍💻
 
 
 - 🌱 I’m currently learning Android Application Development and Software development with C#.
@@ -35,7 +35,7 @@ ___
 <br></br>
 
 <a href="https://github.com/rksorthiya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rksorthiya />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rksorthiya&hide_langs_below=1 />
 </a>
 
 <a href="https://github.com/rksorthiya">
