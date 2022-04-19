@@ -1,7 +1,7 @@
 ### Hi, I'm Rutika Sorthiya 👋👩‍💻
 
 
-- 🌱 I’m currently learning Android Application Development and Web Application development with C#.
+- 🌱 I’m currently learning Web Application development with C#.
 - 👯 I’m looking to collaborate on Android Projects.
 - 💬 Ask me about Website Designing, Android App Development, .Net Framework or related stuff.
 - 😄 Pronouns: She / Her
